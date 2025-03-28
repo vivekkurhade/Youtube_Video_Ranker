@@ -1,0 +1,78 @@
+{
+    "Mathematics": [
+        "Sets, Relations, and Functions",
+        "Complex Numbers and Quadratic Equations",
+        "Matrices and Determinants",
+        "Permutations and Combinations",
+        "Mathematical Induction",
+        "Binomial Theorem and its Simple Applications",
+        "Sequences and Series",
+        "Limit, Continuity, and Differentiability",
+        "Integral Calculus",
+        "Differential Equations",
+        "Coordinate Geometry",
+        "Three Dimensional Geometry",
+        "Vector Algebra",
+        "Statistics and Probability",
+        "Trigonometry",
+        "Mathematical Reasoning"
+    ],
+    "Physics": [
+        "Physics and Measurement",
+        "Kinematics",
+        "Laws of Motion",
+        "Work, Energy, and Power",
+        "Rotational Motion",
+        "Gravitation",
+        "Properties of Solids and Liquids",
+        "Thermodynamics",
+        "Kinetic Theory of Gases",
+        "Oscillations and Waves",
+        "Electrostatics",
+        "Current Electricity",
+        "Magnetic Effects of Current and Magnetism",
+        "Electromagnetic Induction and Alternating Currents",
+        "Electromagnetic Waves",
+        "Optics",
+        "Dual Nature of Matter and Radiation",
+        "Atoms and Nuclei",
+        "Electronic Devices",
+        "Experimental Skills"
+    ],
+    "Chemistry": {
+        "Physical Chemistry": [
+            "Some Basic Concepts in Chemistry",
+            "States of Matter",
+            "Atomic Structure",
+            "Chemical Bonding and Molecular Structure",
+            "Chemical Thermodynamics",
+            "Solutions",
+            "Equilibrium",
+            "Redox Reactions and Electrochemistry",
+            "Chemical Kinetics",
+            "Surface Chemistry"
+        ],
+        "Inorganic Chemistry": [
+            "Classification of Elements and Periodicity in Properties",
+            "General Principles and Processes of Isolation of Metals",
+            "Hydrogen",
+            "The s-Block Element (Alkali and Alkaline earth metals)",
+            "The p-Block Elements (Group 13 to Group 18 Elements)",
+            "The d- and f-Block Elements",
+            "Coordination Compounds",
+            "Environmental Chemistry"
+        ],
+        "Organic Chemistry": [
+            "Purification and Characterization of Organic Compounds",
+            "Some Basic Principles of Organic Chemistry",
+            "Hydrocarbons",
+            "Organic Compounds Containing Halogens",
+            "Organic Compounds Containing Oxygen",
+            "Organic Compounds Containing Nitrogen",
+            "Polymers",
+            "Biomolecules",
+            "Chemistry in Everyday Life",
+            "Principles Related to Practical Chemistry"
+        ]
+    }
+}
