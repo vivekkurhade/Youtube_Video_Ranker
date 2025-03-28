@@ -15,7 +15,7 @@ from nltk.tokenize import sent_tokenize
 nltk.download('punkt')
 
 # Optional: Use environment variable for API key (recommended for production)
-API_KEY = os.getenv("YOUTUBE_API_KEY", "AIzaSyAlfm9QSmr6qTJIgn8ofUN3fwK6PxTU4RA")
+API_KEY = os.getenv("YOUTUBE_API_KEY", "YOUR_API_KEY_GOES_HERE")
 youtube = build("youtube", "v3", developerKey=API_KEY)
 
 # Transformer-based summarizer for accurate summaries
